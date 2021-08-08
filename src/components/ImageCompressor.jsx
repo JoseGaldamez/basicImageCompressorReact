@@ -93,6 +93,9 @@ export default class imageCompressor extends React.Component {
               />
             </div>
           </div>
+
+
+          
           <div className="col-xl-4 col-lg-4 col-md-12 mb-5 mt-5 col-sm-12 d-flex justify-content-center align-items-baseline">
             <br />
             {this.state.outputFileName ? (
