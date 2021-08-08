@@ -77,7 +77,7 @@ export const CompressorPage = () => {
             {/* Upload and watch a image on page */}
             <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 { (!state.uploadImage) ? (
-                    <Card.Img className="ht" variant="top" src="http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png" />
+                    <Card.Img className="ht" variant="top" src="https://i.stack.imgur.com/y9DpT.jpg" />
                     ) : (
                     <Card.Img className="ht" variant="top" src={state.originalLink} />
                 ) }
@@ -109,7 +109,7 @@ export const CompressorPage = () => {
             {/* This is the image already compressed  */}
             <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 { (!state.clicked) ? (
-                    <Card.Img className="ht" variant="top" src="http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png" />
+                    <Card.Img className="ht" variant="top" src="https://i.stack.imgur.com/y9DpT.jpg" />
                     ) : (
                         <div>
                             <Card.Img className="ht" variant="top" src={state.compressedLink} />
