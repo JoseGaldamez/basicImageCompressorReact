@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,WACI,yBAA2B,CAC3B,mBACJ,CAEA,SACI,iBAAkB,CAClB,UAAY,CACZ,cACJ","file":"main.b940ea11.chunk.css","sourcesContent":[".container{\r\n    max-width: 760px !important;\r\n    margin-bottom: 150px;\r\n}\r\n\r\n.made_by{\r\n    text-align: center;\r\n    opacity: 0.8;\r\n    font-size: 14px;\r\n}"]}
