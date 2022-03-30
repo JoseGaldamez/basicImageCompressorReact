@@ -1,0 +1,10 @@
+.container{
+    max-width: 760px !important;
+    margin-bottom: 150px;
+}
+
+.made_by{
+    text-align: center;
+    opacity: 0.8;
+    font-size: 14px;
+}
